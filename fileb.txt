@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sangue sopra le classifiche frero.txt
+=======
+File di prova2.txt
+>>>>>>> aac924bc445ad0bfde0fa5f928d071a1f2d3d206
